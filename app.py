@@ -133,7 +133,7 @@ def index():
     
     return render_template('ecua.html')
 
-# cálculo 
+#@calculo
 @app.route('/solve', methods=['POST'])
 def solve():
     data = request.json
