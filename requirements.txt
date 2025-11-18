@@ -1,0 +1,4 @@
+Flask
+gunicorn
+sympy
+numpy
